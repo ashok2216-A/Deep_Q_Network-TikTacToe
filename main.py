@@ -1,3 +1,5 @@
+!pip install pygame numpy tensorflow matplotlib
+
 import numpy as np
 import random
 import tensorflow as tf
